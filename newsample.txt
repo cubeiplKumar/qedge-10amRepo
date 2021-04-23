@@ -1,0 +1,5 @@
+rebase command integrates changes from one branch into another. It is an alternative to the better known "merge" command. Most visibly, rebase differs from 
+
+merge by rewriting the commit history in order to produce a straight, linear succession of commits.
+
+new changes done
