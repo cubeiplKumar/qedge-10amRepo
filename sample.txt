@@ -1,1 +1,4 @@
 docker iamges are uploading into the dockerhub
+
+new chagnes done by using stash
+working with stash commands
